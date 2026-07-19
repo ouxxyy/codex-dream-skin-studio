@@ -1,0 +1,22 @@
+{
+  "name": "codex-dream-skin-studio",
+  "version": "1.3.2",
+  "description": "Unofficial macOS theme studio for the official Codex Desktop app.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "./tests/run-tests.sh",
+    "doctor": "./scripts/doctor-macos.sh",
+    "release": "./scripts/build-release.sh"
+  },
+  "keywords": [
+    "codex",
+    "macos",
+    "theme",
+    "desktop",
+    "skin"
+  ],
+  "engines": {
+    "node": ">=20"
+  }
+}

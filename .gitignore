@@ -1,0 +1,27 @@
+.DS_Store
+._*
+.env
+.env.*
+release/
+runtime/
+node_modules/
+dist/
+coverage/
+*.log
+*.tmp
+*.bak
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+Codex Dream Skin Verification.png
+docs/screenshots/
+backups/
+Library/
+Application Support/
+.codex/
+.claude/
+.opencode/
+.idea/
+.vscode/
+*.swp
